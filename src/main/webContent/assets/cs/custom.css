@@ -1,0 +1,24 @@
+*{
+	font-family: Cambria;
+}
+.cart-badge{
+	position:relative;
+	top:-12px;
+	left:-5px;
+}
+.myslideimage{
+	max-height:350px;
+	min-height:350px;
+	height:350px; 	
+}
+.myiconimage{
+	max-height:100px;
+	min-height:100px;
+	height:100px; 	
+	width:120px;
+}
+
+.productimage{
+	height:100px; 	
+	width:120px;
+}
