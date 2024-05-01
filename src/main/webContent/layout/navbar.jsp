@@ -17,7 +17,7 @@
 				</a></li>
 				<li class="nav-item"><a class="nav-link text-white" href="#">Product
 						<i class="fa-solid fa-cart-shopping"></i> <span
-						class="badge badge-danger badge-pill cart-badge">10</span>
+						class="badge badge-danger badge-pill cart-badge" id="cartCount" >0</span>
 				</a></li>
 				<li class="nav-item"><a class="nav-link text-white" href="#"></a>
 				</li>
